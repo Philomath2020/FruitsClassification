@@ -8,6 +8,9 @@ pathlib.PosixPath = pathlib.PureWindowsPath
 #titLe
 st.title('Mevalarni klassifikatsiya qiluvchi model')
 
+#malumot
+st.header("Uzum, Qulupnay, Banan, Ananasni aniqlovchi dastur")
+
 # rasmni joylash
 file = st.file_uploader('Rasm yuklash', type=['png', 'jpeg', 'gif', 'svg', 'jpg'])
 
