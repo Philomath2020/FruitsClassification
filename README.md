@@ -21,5 +21,5 @@ Browse files tugmasini bosib Uzum, Qulupnay, Banan, Ananas mevalaridan birining 
 Natija:
 
 <div align="center">
-  <img height="400" src="https://github.com/Philomath2020/FruitsClassification/blob/main/pic/pic2.png"  />
+  <img height="600" src="https://github.com/Philomath2020/FruitsClassification/blob/main/pic/pic2.png"  />
 </div>
