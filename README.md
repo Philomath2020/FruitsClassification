@@ -23,3 +23,7 @@ Natija:
 <div align="center">
   <img height="600" src="https://github.com/Philomath2020/FruitsClassification/blob/main/pic/pic2.png"  />
 </div>
+
+## Dataset
+
+OIDv4_ToolKit Datasetidan foydalanildi.
